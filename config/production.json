@@ -1,0 +1,6 @@
+{
+	"mongoURI": "mongodb+srv://asama123:asama123@connectandshare-kzeyj.mongodb.net/<dbname>?retryWrites=true&w=majority",
+	"jwtSecret": "secrettoken",
+	"githubClientId": "",
+	"githubSecret": ""
+}
